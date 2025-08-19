@@ -1,0 +1,34 @@
+
+==== Device: "your device ip will be displayed here" | Time: 2025-08-19 15:04:34====
+
+--- Command: hostname ---
+kali
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+--- Command: whoami ---
+kali
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+--- Command: pwd ---
+/home/kali
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+==== Device: "your device ip will be displayed here" | Time: 2025-08-19 15:04:35====
+
+--- Command: hostname ---
+shakthi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+--- Command: whoami ---
+shakthi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+--- Command: pwd ---
+/home/shakthi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
