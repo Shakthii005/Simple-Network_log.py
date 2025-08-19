@@ -1,4 +1,4 @@
-# Network log Automation 
+# Simple Network log Automation 
 
 This mini-project connects to multiple Linux devices using **Netmiko**, runs a set of commands, and saves results into a single log file.
 
