@@ -24,6 +24,7 @@ This mini-project connects to multiple Linux devices using **Netmiko**, runs a s
     devices =
     
     {"device_type": "your device type", "host": "your device ip", "username": "your device username", "password": "your device password"},
+   
     {"device_type": "your device type", "host": "your device ip", "username": "your device username", "password": "your device password"},
 }
 
